@@ -1,0 +1,887 @@
+parent,child,parents,full
+root,College & University,root,root|College & University
+College & University,Trade School,root|College & University,root|College & University|Trade School
+College & University,College Lab,root|College & University,root|College & University|College Lab
+College & University,Student Center,root|College & University,root|College & University|Student Center
+College & University,Fraternity House,root|College & University,root|College & University|Fraternity House
+College & University,College Residence Hall,root|College & University,root|College & University|College Residence Hall
+College & University,College Academic Building,root|College & University,root|College & University|College Academic Building
+College Academic Building,College Arts Building,root|College & University|College Academic Building,root|College & University|College Academic Building|College Arts Building
+College Academic Building,College Engineering Building,root|College & University|College Academic Building,root|College & University|College Academic Building|College Engineering Building
+College Academic Building,College Technology Building,root|College & University|College Academic Building,root|College & University|College Academic Building|College Technology Building
+College Academic Building,College Communications Building,root|College & University|College Academic Building,root|College & University|College Academic Building|College Communications Building
+College Academic Building,College Science Building,root|College & University|College Academic Building,root|College & University|College Academic Building|College Science Building
+College Academic Building,College History Building,root|College & University|College Academic Building,root|College & University|College Academic Building|College History Building
+College Academic Building,College Math Building,root|College & University|College Academic Building,root|College & University|College Academic Building|College Math Building
+College & University,Community College,root|College & University,root|College & University|Community College
+College & University,General College & University,root|College & University,root|College & University|General College & University
+College & University,University,root|College & University,root|College & University|University
+College & University,College Bookstore,root|College & University,root|College & University|College Bookstore
+College & University,College Gym,root|College & University,root|College & University|College Gym
+College & University,College Stadium,root|College & University,root|College & University|College Stadium
+College Stadium,College Soccer Field,root|College & University|College Stadium,root|College & University|College Stadium|College Soccer Field
+College Stadium,College Baseball Diamond,root|College & University|College Stadium,root|College & University|College Stadium|College Baseball Diamond
+College Stadium,College Tennis Court,root|College & University|College Stadium,root|College & University|College Stadium|College Tennis Court
+College Stadium,College Basketball Court,root|College & University|College Stadium,root|College & University|College Stadium|College Basketball Court
+College Stadium,College Cricket Pitch,root|College & University|College Stadium,root|College & University|College Stadium|College Cricket Pitch
+College Stadium,College Hockey Rink,root|College & University|College Stadium,root|College & University|College Stadium|College Hockey Rink
+College Stadium,College Football Field,root|College & University|College Stadium,root|College & University|College Stadium|College Football Field
+College Stadium,College Track,root|College & University|College Stadium,root|College & University|College Stadium|College Track
+College & University,College Theater,root|College & University,root|College & University|College Theater
+College & University,College Rec Center,root|College & University,root|College & University|College Rec Center
+College & University,Law School,root|College & University,root|College & University|Law School
+College & University,College Classroom,root|College & University,root|College & University|College Classroom
+College & University,College Cafeteria,root|College & University,root|College & University|College Cafeteria
+College & University,College Auditorium,root|College & University,root|College & University|College Auditorium
+College & University,College Library,root|College & University,root|College & University|College Library
+College & University,College Quad,root|College & University,root|College & University|College Quad
+College & University,Sorority House,root|College & University,root|College & University|Sorority House
+College & University,Medical School,root|College & University,root|College & University|Medical School
+College & University,College Administrative Building,root|College & University,root|College & University|College Administrative Building
+root,Food,root,root|Food
+Food,Italian Restaurant,root|Food,root|Food|Italian Restaurant
+Italian Restaurant,Piadineria,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Piadineria
+Italian Restaurant,Piedmontese Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Piedmontese Restaurant
+Italian Restaurant,Tuscan Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Tuscan Restaurant
+Italian Restaurant,Friuli Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Friuli Restaurant
+Italian Restaurant,Marche Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Marche Restaurant
+Italian Restaurant,Sardinian Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Sardinian Restaurant
+Italian Restaurant,Veneto Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Veneto Restaurant
+Italian Restaurant,Aosta Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Aosta Restaurant
+Italian Restaurant,Umbrian Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Umbrian Restaurant
+Italian Restaurant,Emilia Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Emilia Restaurant
+Italian Restaurant,Agriturismo,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Agriturismo
+Italian Restaurant,Malga,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Malga
+Italian Restaurant,South Tyrolean Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|South Tyrolean Restaurant
+Italian Restaurant,Ligurian Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Ligurian Restaurant
+Italian Restaurant,Abruzzo Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Abruzzo Restaurant
+Italian Restaurant,Campanian Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Campanian Restaurant
+Italian Restaurant,Basilicata Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Basilicata Restaurant
+Italian Restaurant,Trattoria/Osteria,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Trattoria/Osteria
+Italian Restaurant,Roman Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Roman Restaurant
+Italian Restaurant,Calabria Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Calabria Restaurant
+Italian Restaurant,Puglia Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Puglia Restaurant
+Italian Restaurant,Trentino Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Trentino Restaurant
+Italian Restaurant,Romagna Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Romagna Restaurant
+Italian Restaurant,Molise Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Molise Restaurant
+Italian Restaurant,Lombard Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Lombard Restaurant
+Italian Restaurant,Sicilian Restaurant,root|Food|Italian Restaurant,root|Food|Italian Restaurant|Sicilian Restaurant
+Food,Theme Restaurant,root|Food,root|Food|Theme Restaurant
+Food,Bistro,root|Food,root|Food|Bistro
+Food,French Restaurant,root|Food,root|Food|French Restaurant
+French Restaurant,Southwestern French Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Southwestern French Restaurant
+French Restaurant,Alsatian Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Alsatian Restaurant
+French Restaurant,Catalan Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Catalan Restaurant
+French Restaurant,Basque Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Basque Restaurant
+French Restaurant,Savoyard Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Savoyard Restaurant
+French Restaurant,Provençal Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Provençal Restaurant
+French Restaurant,Estaminet,root|Food|French Restaurant,root|Food|French Restaurant|Estaminet
+French Restaurant,Norman Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Norman Restaurant
+French Restaurant,Lyonese Bouchon,root|Food|French Restaurant,root|Food|French Restaurant|Lyonese Bouchon
+French Restaurant,Breton Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Breton Restaurant
+French Restaurant,Burgundian Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Burgundian Restaurant
+French Restaurant,Ch'ti Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Ch'ti Restaurant
+French Restaurant,Auvergne Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Auvergne Restaurant
+French Restaurant,Corsican Restaurant,root|Food|French Restaurant,root|Food|French Restaurant|Corsican Restaurant
+French Restaurant,Brasserie,root|Food|French Restaurant,root|Food|French Restaurant|Brasserie
+French Restaurant,Labour Canteen,root|Food|French Restaurant,root|Food|French Restaurant|Labour Canteen
+Food,Pakistani Restaurant,root|Food,root|Food|Pakistani Restaurant
+Food,Indian Restaurant,root|Food,root|Food|Indian Restaurant
+Indian Restaurant,Punjabi Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Punjabi Restaurant
+Indian Restaurant,Bengali Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Bengali Restaurant
+Indian Restaurant,Andhra Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Andhra Restaurant
+Indian Restaurant,Kerala Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Kerala Restaurant
+Indian Restaurant,Indian Chinese Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Indian Chinese Restaurant
+Indian Restaurant,Chettinad Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Chettinad Restaurant
+Indian Restaurant,Indian Sweet Shop,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Indian Sweet Shop
+Indian Restaurant,Parsi Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Parsi Restaurant
+Indian Restaurant,Maharashtrian Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Maharashtrian Restaurant
+Indian Restaurant,Goan Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Goan Restaurant
+Indian Restaurant,Irani Cafe,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Irani Cafe
+Indian Restaurant,Dosa Place,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Dosa Place
+Indian Restaurant,Awadhi Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Awadhi Restaurant
+Indian Restaurant,Dhaba,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Dhaba
+Indian Restaurant,North Indian Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|North Indian Restaurant
+Indian Restaurant,Rajasthani Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Rajasthani Restaurant
+Indian Restaurant,Chaat Place,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Chaat Place
+Indian Restaurant,Multicuisine Indian Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Multicuisine Indian Restaurant
+Indian Restaurant,Mughlai Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Mughlai Restaurant
+Indian Restaurant,Northeast Indian Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Northeast Indian Restaurant
+Indian Restaurant,Gujarati Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Gujarati Restaurant
+Indian Restaurant,Udupi Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Udupi Restaurant
+Indian Restaurant,Hyderabadi Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Hyderabadi Restaurant
+Indian Restaurant,South Indian Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|South Indian Restaurant
+Indian Restaurant,Jain Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Jain Restaurant
+Indian Restaurant,Karnataka Restaurant,root|Food|Indian Restaurant,root|Food|Indian Restaurant|Karnataka Restaurant
+Food,Buffet,root|Food,root|Food|Buffet
+Food,Gastropub,root|Food,root|Food|Gastropub
+Food,Middle Eastern Restaurant,root|Food,root|Food|Middle Eastern Restaurant
+Middle Eastern Restaurant,Israeli Restaurant,root|Food|Middle Eastern Restaurant,root|Food|Middle Eastern Restaurant|Israeli Restaurant
+Middle Eastern Restaurant,Persian Restaurant,root|Food|Middle Eastern Restaurant,root|Food|Middle Eastern Restaurant|Persian Restaurant
+Persian Restaurant,Tabbakhi,root|Food|Middle Eastern Restaurant|Persian Restaurant,root|Food|Middle Eastern Restaurant|Persian Restaurant|Tabbakhi
+Middle Eastern Restaurant,Kurdish Restaurant,root|Food|Middle Eastern Restaurant,root|Food|Middle Eastern Restaurant|Kurdish Restaurant
+Food,German Restaurant,root|Food,root|Food|German Restaurant
+German Restaurant,Currywurst Joint,root|Food|German Restaurant,root|Food|German Restaurant|Currywurst Joint
+German Restaurant,German Pop-Up Restaurant,root|Food|German Restaurant,root|Food|German Restaurant|German Pop-Up Restaurant
+German Restaurant,Franconian Restaurant,root|Food|German Restaurant,root|Food|German Restaurant|Franconian Restaurant
+German Restaurant,Rhenisch Restaurant,root|Food|German Restaurant,root|Food|German Restaurant|Rhenisch Restaurant
+German Restaurant,Schnitzel Restaurant,root|Food|German Restaurant,root|Food|German Restaurant|Schnitzel Restaurant
+German Restaurant,Palatine Restaurant,root|Food|German Restaurant,root|Food|German Restaurant|Palatine Restaurant
+German Restaurant,Bavarian Restaurant,root|Food|German Restaurant,root|Food|German Restaurant|Bavarian Restaurant
+German Restaurant,Bratwurst Joint,root|Food|German Restaurant,root|Food|German Restaurant|Bratwurst Joint
+German Restaurant,Apple Wine Pub,root|Food|German Restaurant,root|Food|German Restaurant|Apple Wine Pub
+German Restaurant,Silesian Restaurant,root|Food|German Restaurant,root|Food|German Restaurant|Silesian Restaurant
+German Restaurant,Swabian Restaurant,root|Food|German Restaurant,root|Food|German Restaurant|Swabian Restaurant
+Food,Bagel Shop,root|Food,root|Food|Bagel Shop
+Food,Restaurant,root|Food,root|Food|Restaurant
+Food,Southern / Soul Food Restaurant,root|Food,root|Food|Southern / Soul Food Restaurant
+Food,Pizza Place,root|Food,root|Food|Pizza Place
+Food,Hot Dog Joint,root|Food,root|Food|Hot Dog Joint
+Food,Bakery,root|Food,root|Food|Bakery
+Food,Dumpling Restaurant,root|Food,root|Food|Dumpling Restaurant
+Food,Poutine Place,root|Food,root|Food|Poutine Place
+Food,Belgian Restaurant,root|Food,root|Food|Belgian Restaurant
+Food,Kebab Restaurant,root|Food,root|Food|Kebab Restaurant
+Food,Salad Place,root|Food,root|Food|Salad Place
+Food,Coffee Shop,root|Food,root|Food|Coffee Shop
+Food,Eastern European Restaurant,root|Food,root|Food|Eastern European Restaurant
+Eastern European Restaurant,Bulgarian Restaurant,root|Food|Eastern European Restaurant,root|Food|Eastern European Restaurant|Bulgarian Restaurant
+Eastern European Restaurant,Tatar Restaurant,root|Food|Eastern European Restaurant,root|Food|Eastern European Restaurant|Tatar Restaurant
+Eastern European Restaurant,Belarusian Restaurant,root|Food|Eastern European Restaurant,root|Food|Eastern European Restaurant|Belarusian Restaurant
+Eastern European Restaurant,Romanian Restaurant,root|Food|Eastern European Restaurant,root|Food|Eastern European Restaurant|Romanian Restaurant
+Food,Afghan Restaurant,root|Food,root|Food|Afghan Restaurant
+Food,Café,root|Food,root|Food|Café
+Food,Seafood Restaurant,root|Food,root|Food|Seafood Restaurant
+Food,Creperie,root|Food,root|Food|Creperie
+Food,Austrian Restaurant,root|Food,root|Food|Austrian Restaurant
+Food,Bubble Tea Shop,root|Food,root|Food|Bubble Tea Shop
+Food,Halal Restaurant,root|Food,root|Food|Halal Restaurant
+Food,Food Stand,root|Food,root|Food|Food Stand
+Food,Hungarian Restaurant,root|Food,root|Food|Hungarian Restaurant
+Food,Comfort Food Restaurant,root|Food,root|Food|Comfort Food Restaurant
+Food,Turkish Restaurant,root|Food,root|Food|Turkish Restaurant
+Turkish Restaurant,Kokoreç Restaurant,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Kokoreç Restaurant
+Turkish Restaurant,Kumpir Restaurant,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Kumpir Restaurant
+Turkish Restaurant,Borek Place,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Borek Place
+Turkish Restaurant,Pide Place,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Pide Place
+Turkish Restaurant,Tantuni Restaurant,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Tantuni Restaurant
+Turkish Restaurant,Kofte Place,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Kofte Place
+Turkish Restaurant,Gozleme Place,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Gozleme Place
+Turkish Restaurant,Turkish Home Cooking Restaurant,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Turkish Home Cooking Restaurant
+Turkish Restaurant,Kumru Restaurant,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Kumru Restaurant
+Turkish Restaurant,Doner Restaurant,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Doner Restaurant
+Turkish Restaurant,Cigkofte Place,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Cigkofte Place
+Turkish Restaurant,Manti Place,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Manti Place
+Turkish Restaurant,Turkish Coffeehouse,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Turkish Coffeehouse
+Turkish Restaurant,Meyhane,root|Food|Turkish Restaurant,root|Food|Turkish Restaurant|Meyhane
+Food,Greek Restaurant,root|Food,root|Food|Greek Restaurant
+Greek Restaurant,Modern Greek Restaurant,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Modern Greek Restaurant
+Greek Restaurant,Magirio,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Magirio
+Greek Restaurant,Grilled Meat Restaurant,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Grilled Meat Restaurant
+Greek Restaurant,Taverna,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Taverna
+Greek Restaurant,Patsa Restaurant,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Patsa Restaurant
+Greek Restaurant,Ouzeri,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Ouzeri
+Greek Restaurant,Souvlaki Shop,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Souvlaki Shop
+Greek Restaurant,Kafenio,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Kafenio
+Greek Restaurant,Fish Taverna,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Fish Taverna
+Greek Restaurant,Bougatsa Shop,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Bougatsa Shop
+Greek Restaurant,Meze Restaurant,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Meze Restaurant
+Greek Restaurant,Cretan Restaurant,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Cretan Restaurant
+Greek Restaurant,Tsipouro Restaurant,root|Food|Greek Restaurant,root|Food|Greek Restaurant|Tsipouro Restaurant
+Food,Caribbean Restaurant,root|Food,root|Food|Caribbean Restaurant
+Caribbean Restaurant,Cuban Restaurant,root|Food|Caribbean Restaurant,root|Food|Caribbean Restaurant|Cuban Restaurant
+Food,African Restaurant,root|Food,root|Food|African Restaurant
+African Restaurant,Ethiopian Restaurant,root|Food|African Restaurant,root|Food|African Restaurant|Ethiopian Restaurant
+Food,Swiss Restaurant,root|Food,root|Food|Swiss Restaurant
+Food,Steakhouse,root|Food,root|Food|Steakhouse
+Food,English Restaurant,root|Food,root|Food|English Restaurant
+Food,Czech Restaurant,root|Food,root|Food|Czech Restaurant
+Food,Modern European Restaurant,root|Food,root|Food|Modern European Restaurant
+Food,Truck Stop,root|Food,root|Food|Truck Stop
+Food,Wings Joint,root|Food,root|Food|Wings Joint
+Food,Donut Shop,root|Food,root|Food|Donut Shop
+Food,Ukrainian Restaurant,root|Food,root|Food|Ukrainian Restaurant
+Ukrainian Restaurant,West-Ukrainian Restaurant,root|Food|Ukrainian Restaurant,root|Food|Ukrainian Restaurant|West-Ukrainian Restaurant
+Ukrainian Restaurant,Varenyky restaurant,root|Food|Ukrainian Restaurant,root|Food|Ukrainian Restaurant|Varenyky restaurant
+Food,Jewish Restaurant,root|Food,root|Food|Jewish Restaurant
+Jewish Restaurant,Kosher Restaurant,root|Food|Jewish Restaurant,root|Food|Jewish Restaurant|Kosher Restaurant
+Food,Caucasian Restaurant,root|Food,root|Food|Caucasian Restaurant
+Food,Australian Restaurant,root|Food,root|Food|Australian Restaurant
+Food,Cajun / Creole Restaurant,root|Food,root|Food|Cajun / Creole Restaurant
+Food,Irish Pub,root|Food,root|Food|Irish Pub
+Food,Food Truck,root|Food,root|Food|Food Truck
+Food,Vegetarian / Vegan Restaurant,root|Food,root|Food|Vegetarian / Vegan Restaurant
+Food,Burger Joint,root|Food,root|Food|Burger Joint
+Food,Asian Restaurant,root|Food,root|Food|Asian Restaurant
+Asian Restaurant,Indonesian Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant
+Indonesian Restaurant,Acehnese Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant|Acehnese Restaurant
+Indonesian Restaurant,Manadonese Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant|Manadonese Restaurant
+Indonesian Restaurant,Javanese Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant|Javanese Restaurant
+Indonesian Restaurant,Padangnese Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant|Padangnese Restaurant
+Indonesian Restaurant,Betawinese Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant|Betawinese Restaurant
+Indonesian Restaurant,Sundanese Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant|Sundanese Restaurant
+Indonesian Restaurant,Balinese Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant|Balinese Restaurant
+Indonesian Restaurant,Indonesian Meatball Place,root|Food|Asian Restaurant|Indonesian Restaurant,root|Food|Asian Restaurant|Indonesian Restaurant|Indonesian Meatball Place
+Asian Restaurant,Malay Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Malay Restaurant
+Asian Restaurant,Noodle House,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Noodle House
+Asian Restaurant,Vietnamese Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Vietnamese Restaurant
+Asian Restaurant,Burmese Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Burmese Restaurant
+Asian Restaurant,Himalayan Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Himalayan Restaurant
+Asian Restaurant,Cambodian Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Cambodian Restaurant
+Asian Restaurant,Mongolian Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Mongolian Restaurant
+Asian Restaurant,Thai Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Thai Restaurant
+Thai Restaurant,Som Tum Restaurant,root|Food|Asian Restaurant|Thai Restaurant,root|Food|Asian Restaurant|Thai Restaurant|Som Tum Restaurant
+Asian Restaurant,Korean Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Korean Restaurant
+Korean Restaurant,Bunsik Restaurant,root|Food|Asian Restaurant|Korean Restaurant,root|Food|Asian Restaurant|Korean Restaurant|Bunsik Restaurant
+Korean Restaurant,Janguh Restaurant,root|Food|Asian Restaurant|Korean Restaurant,root|Food|Asian Restaurant|Korean Restaurant|Janguh Restaurant
+Korean Restaurant,Gukbap Restaurant,root|Food|Asian Restaurant|Korean Restaurant,root|Food|Asian Restaurant|Korean Restaurant|Gukbap Restaurant
+Korean Restaurant,Samgyetang Restaurant,root|Food|Asian Restaurant|Korean Restaurant,root|Food|Asian Restaurant|Korean Restaurant|Samgyetang Restaurant
+Korean Restaurant,Bossam/Jokbal Restaurant,root|Food|Asian Restaurant|Korean Restaurant,root|Food|Asian Restaurant|Korean Restaurant|Bossam/Jokbal Restaurant
+Asian Restaurant,Chinese Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Chinese Restaurant
+Chinese Restaurant,Hubei Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Hubei Restaurant
+Chinese Restaurant,Manchu Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Manchu Restaurant
+Chinese Restaurant,Huaiyang Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Huaiyang Restaurant
+Chinese Restaurant,Zhejiang Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Zhejiang Restaurant
+Chinese Restaurant,Chinese Aristocrat Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Chinese Aristocrat Restaurant
+Chinese Restaurant,Hong Kong Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Hong Kong Restaurant
+Chinese Restaurant,Shanxi Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Shanxi Restaurant
+Chinese Restaurant,Imperial Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Imperial Restaurant
+Chinese Restaurant,Anhui Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Anhui Restaurant
+Chinese Restaurant,Jiangxi Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Jiangxi Restaurant
+Chinese Restaurant,Xinjiang Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Xinjiang Restaurant
+Chinese Restaurant,Shandong Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Shandong Restaurant
+Chinese Restaurant,Guizhou Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Guizhou Restaurant
+Chinese Restaurant,Macanese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Macanese Restaurant
+Chinese Restaurant,Fujian Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Fujian Restaurant
+Chinese Restaurant,Szechuan Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Szechuan Restaurant
+Chinese Restaurant,Dim Sum Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Dim Sum Restaurant
+Chinese Restaurant,Chinese Breakfast Place,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Chinese Breakfast Place
+Chinese Restaurant,Taiwanese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Taiwanese Restaurant
+Chinese Restaurant,Shanghai Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Shanghai Restaurant
+Chinese Restaurant,Cantonese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Cantonese Restaurant
+Chinese Restaurant,Henan Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Henan Restaurant
+Chinese Restaurant,Hunan Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Hunan Restaurant
+Chinese Restaurant,Dongbei Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Dongbei Restaurant
+Chinese Restaurant,Tianjin Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Tianjin Restaurant
+Chinese Restaurant,Hakka Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Hakka Restaurant
+Chinese Restaurant,Yunnan Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Yunnan Restaurant
+Chinese Restaurant,Shaanxi Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Shaanxi Restaurant
+Chinese Restaurant,Beijing Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Beijing Restaurant
+Chinese Restaurant,Jiangsu Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Jiangsu Restaurant
+Chinese Restaurant,Hainan Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Hainan Restaurant
+Chinese Restaurant,Peking Duck Restaurant,root|Food|Asian Restaurant|Chinese Restaurant,root|Food|Asian Restaurant|Chinese Restaurant|Peking Duck Restaurant
+Asian Restaurant,Hotpot Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Hotpot Restaurant
+Asian Restaurant,Satay Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Satay Restaurant
+Asian Restaurant,Japanese Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Japanese Restaurant
+Japanese Restaurant,Tempura Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Tempura Restaurant
+Japanese Restaurant,Yakitori Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Yakitori Restaurant
+Japanese Restaurant,Kushikatsu Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Kushikatsu Restaurant
+Japanese Restaurant,Nabe Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Nabe Restaurant
+Japanese Restaurant,Sukiyaki Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Sukiyaki Restaurant
+Japanese Restaurant,Soba Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Soba Restaurant
+Japanese Restaurant,Wagashi Place,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Wagashi Place
+Japanese Restaurant,Unagi Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Unagi Restaurant
+Japanese Restaurant,Ramen Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Ramen Restaurant
+Japanese Restaurant,Kaiseki Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Kaiseki Restaurant
+Japanese Restaurant,Monjayaki Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Monjayaki Restaurant
+Japanese Restaurant,Yoshoku Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Yoshoku Restaurant
+Japanese Restaurant,Tonkatsu Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Tonkatsu Restaurant
+Japanese Restaurant,Udon Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Udon Restaurant
+Japanese Restaurant,Japanese Curry Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Japanese Curry Restaurant
+Japanese Restaurant,Donburi Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Donburi Restaurant
+Japanese Restaurant,Sushi Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Sushi Restaurant
+Japanese Restaurant,Shabu-Shabu Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Shabu-Shabu Restaurant
+Japanese Restaurant,Takoyaki Place,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Takoyaki Place
+Japanese Restaurant,Okonomiyaki Restaurant,root|Food|Asian Restaurant|Japanese Restaurant,root|Food|Asian Restaurant|Japanese Restaurant|Okonomiyaki Restaurant
+Asian Restaurant,Tibetan Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Tibetan Restaurant
+Asian Restaurant,Filipino Restaurant,root|Food|Asian Restaurant,root|Food|Asian Restaurant|Filipino Restaurant
+Food,Spanish Restaurant,root|Food,root|Food|Spanish Restaurant
+Spanish Restaurant,Tapas Restaurant,root|Food|Spanish Restaurant,root|Food|Spanish Restaurant|Tapas Restaurant
+Spanish Restaurant,Paella Restaurant,root|Food|Spanish Restaurant,root|Food|Spanish Restaurant|Paella Restaurant
+Food,Fried Chicken Joint,root|Food,root|Food|Fried Chicken Joint
+Food,Sri Lankan Restaurant,root|Food,root|Food|Sri Lankan Restaurant
+Food,Tea Room,root|Food,root|Food|Tea Room
+Food,Fondue Restaurant,root|Food,root|Food|Fondue Restaurant
+Food,Fish & Chips Shop,root|Food,root|Food|Fish & Chips Shop
+Food,Latin American Restaurant,root|Food,root|Food|Latin American Restaurant
+Latin American Restaurant,Arepa Restaurant,root|Food|Latin American Restaurant,root|Food|Latin American Restaurant|Arepa Restaurant
+Latin American Restaurant,South American Restaurant,root|Food|Latin American Restaurant,root|Food|Latin American Restaurant|South American Restaurant
+South American Restaurant,Argentinian Restaurant,root|Food|Latin American Restaurant|South American Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Argentinian Restaurant
+South American Restaurant,Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant
+Brazilian Restaurant,Churrascaria,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Churrascaria
+Brazilian Restaurant,Northern Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Northern Brazilian Restaurant
+Brazilian Restaurant,Southern Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Southern Brazilian Restaurant
+Brazilian Restaurant,Baiano Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Baiano Restaurant
+Brazilian Restaurant,Pastelaria,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Pastelaria
+Brazilian Restaurant,Empada House,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Empada House
+Brazilian Restaurant,Goiano Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Goiano Restaurant
+Brazilian Restaurant,Acai House,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Acai House
+Brazilian Restaurant,Central Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Central Brazilian Restaurant
+Brazilian Restaurant,Northeastern Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Northeastern Brazilian Restaurant
+Brazilian Restaurant,Tapiocaria,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Tapiocaria
+Brazilian Restaurant,Southeastern Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Southeastern Brazilian Restaurant
+Brazilian Restaurant,Mineiro Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Brazilian Restaurant|Mineiro Restaurant
+South American Restaurant,Peruvian Restaurant,root|Food|Latin American Restaurant|South American Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Peruvian Restaurant
+South American Restaurant,Venezuelan Restaurant,root|Food|Latin American Restaurant|South American Restaurant,root|Food|Latin American Restaurant|South American Restaurant|Venezuelan Restaurant
+Latin American Restaurant,Empanada Restaurant,root|Food|Latin American Restaurant,root|Food|Latin American Restaurant|Empanada Restaurant
+Latin American Restaurant,Salvadoran Restaurant,root|Food|Latin American Restaurant,root|Food|Latin American Restaurant|Salvadoran Restaurant
+Food,Mexican Restaurant,root|Food,root|Food|Mexican Restaurant
+Mexican Restaurant,Yucatecan Restaurant,root|Food|Mexican Restaurant,root|Food|Mexican Restaurant|Yucatecan Restaurant
+Mexican Restaurant,Tex-Mex Restaurant,root|Food|Mexican Restaurant,root|Food|Mexican Restaurant|Tex-Mex Restaurant
+Mexican Restaurant,Burrito Place,root|Food|Mexican Restaurant,root|Food|Mexican Restaurant|Burrito Place
+Mexican Restaurant,Taco Place,root|Food|Mexican Restaurant,root|Food|Mexican Restaurant|Taco Place
+Food,Snack Place,root|Food,root|Food|Snack Place
+Food,Scandinavian Restaurant,root|Food,root|Food|Scandinavian Restaurant
+Food,Polish Restaurant,root|Food,root|Food|Polish Restaurant
+Food,Falafel Restaurant,root|Food,root|Food|Falafel Restaurant
+Food,Scottish Restaurant,root|Food,root|Food|Scottish Restaurant
+Food,Breakfast Spot,root|Food,root|Food|Breakfast Spot
+Food,Dessert Shop,root|Food,root|Food|Dessert Shop
+Dessert Shop,Cupcake Shop,root|Food|Dessert Shop,root|Food|Dessert Shop|Cupcake Shop
+Dessert Shop,Frozen Yogurt Shop,root|Food|Dessert Shop,root|Food|Dessert Shop|Frozen Yogurt Shop
+Dessert Shop,Pie Shop,root|Food|Dessert Shop,root|Food|Dessert Shop|Pie Shop
+Dessert Shop,Pastry Shop,root|Food|Dessert Shop,root|Food|Dessert Shop|Pastry Shop
+Dessert Shop,Ice Cream Shop,root|Food|Dessert Shop,root|Food|Dessert Shop|Ice Cream Shop
+Food,Food Court,root|Food,root|Food|Food Court
+Food,Sandwich Place,root|Food,root|Food|Sandwich Place
+Food,Portuguese Restaurant,root|Food,root|Food|Portuguese Restaurant
+Food,Dutch Restaurant,root|Food,root|Food|Dutch Restaurant
+Food,Fast Food Restaurant,root|Food,root|Food|Fast Food Restaurant
+Food,Gluten-free Restaurant,root|Food,root|Food|Gluten-free Restaurant
+Food,Deli / Bodega,root|Food,root|Food|Deli / Bodega
+Food,Mediterranean Restaurant,root|Food,root|Food|Mediterranean Restaurant
+Mediterranean Restaurant,Moroccan Restaurant,root|Food|Mediterranean Restaurant,root|Food|Mediterranean Restaurant|Moroccan Restaurant
+Food,Slovak Restaurant,root|Food,root|Food|Slovak Restaurant
+Food,Diner,root|Food,root|Food|Diner
+Food,Soup Place,root|Food,root|Food|Soup Place
+Food,Friterie,root|Food,root|Food|Friterie
+Food,Russian Restaurant,root|Food,root|Food|Russian Restaurant
+Russian Restaurant,Pelmeni House,root|Food|Russian Restaurant,root|Food|Russian Restaurant|Pelmeni House
+Russian Restaurant,Blini House,root|Food|Russian Restaurant,root|Food|Russian Restaurant|Blini House
+Food,American Restaurant,root|Food,root|Food|American Restaurant
+American Restaurant,New American Restaurant,root|Food|American Restaurant,root|Food|American Restaurant|New American Restaurant
+Food,Mac & Cheese Joint,root|Food,root|Food|Mac & Cheese Joint
+Food,Pet Café,root|Food,root|Food|Pet Café
+Food,Juice Bar,root|Food,root|Food|Juice Bar
+Food,BBQ Joint,root|Food,root|Food|BBQ Joint
+Food,Molecular Gastronomy Restaurant,root|Food,root|Food|Molecular Gastronomy Restaurant
+Food,Cafeteria,root|Food,root|Food|Cafeteria
+Food,Hawaiian Restaurant,root|Food,root|Food|Hawaiian Restaurant
+root,Residence,root,root|Residence
+Residence,Trailer Park,root|Residence,root|Residence|Trailer Park
+Residence,Residential Building (Apartment / Condo),root|Residence,root|Residence|Residential Building (Apartment / Condo)
+Residence,Home (private),root|Residence,root|Residence|Home (private)
+Residence,Assisted Living,root|Residence,root|Residence|Assisted Living
+Residence,Housing Development,root|Residence,root|Residence|Housing Development
+root,Travel & Transport,root,root|Travel & Transport
+Travel & Transport,Toll Plaza,root|Travel & Transport,root|Travel & Transport|Toll Plaza
+Travel & Transport,Tram Station,root|Travel & Transport,root|Travel & Transport|Tram Station
+Travel & Transport,Tourist Information Center,root|Travel & Transport,root|Travel & Transport|Tourist Information Center
+Travel & Transport,Light Rail Station,root|Travel & Transport,root|Travel & Transport|Light Rail Station
+Travel & Transport,Cable Car,root|Travel & Transport,root|Travel & Transport|Cable Car
+Travel & Transport,Boat Rental,root|Travel & Transport,root|Travel & Transport|Boat Rental
+Travel & Transport,Taxi Stand,root|Travel & Transport,root|Travel & Transport|Taxi Stand
+Travel & Transport,Bus Station,root|Travel & Transport,root|Travel & Transport|Bus Station
+Bus Station,Bus Line,root|Travel & Transport|Bus Station,root|Travel & Transport|Bus Station|Bus Line
+Travel & Transport,Hotel,root|Travel & Transport,root|Travel & Transport|Hotel
+Hotel,Hotel Pool,root|Travel & Transport|Hotel,root|Travel & Transport|Hotel|Hotel Pool
+Hotel,Motel,root|Travel & Transport|Hotel,root|Travel & Transport|Hotel|Motel
+Hotel,Resort,root|Travel & Transport|Hotel,root|Travel & Transport|Hotel|Resort
+Hotel,Bed & Breakfast,root|Travel & Transport|Hotel,root|Travel & Transport|Hotel|Bed & Breakfast
+Hotel,Roof Deck,root|Travel & Transport|Hotel,root|Travel & Transport|Hotel|Roof Deck
+Hotel,Boarding House,root|Travel & Transport|Hotel,root|Travel & Transport|Hotel|Boarding House
+Hotel,Vacation Rental,root|Travel & Transport|Hotel,root|Travel & Transport|Hotel|Vacation Rental
+Hotel,Hostel,root|Travel & Transport|Hotel,root|Travel & Transport|Hotel|Hostel
+Travel & Transport,Border Crossing,root|Travel & Transport,root|Travel & Transport|Border Crossing
+Travel & Transport,Transportation Service,root|Travel & Transport,root|Travel & Transport|Transportation Service
+Travel & Transport,Train Station,root|Travel & Transport,root|Travel & Transport|Train Station
+Train Station,Platform,root|Travel & Transport|Train Station,root|Travel & Transport|Train Station|Platform
+Train Station,Train,root|Travel & Transport|Train Station,root|Travel & Transport|Train Station|Train
+Travel & Transport,Road,root|Travel & Transport,root|Travel & Transport|Road
+Travel & Transport,Travel Lounge,root|Travel & Transport,root|Travel & Transport|Travel Lounge
+Travel & Transport,Intersection,root|Travel & Transport,root|Travel & Transport|Intersection
+Travel & Transport,Pier,root|Travel & Transport,root|Travel & Transport|Pier
+Travel & Transport,Taxi,root|Travel & Transport,root|Travel & Transport|Taxi
+Travel & Transport,Boat or Ferry,root|Travel & Transport,root|Travel & Transport|Boat or Ferry
+Travel & Transport,Tunnel,root|Travel & Transport,root|Travel & Transport|Tunnel
+Travel & Transport,Rest Area,root|Travel & Transport,root|Travel & Transport|Rest Area
+Travel & Transport,Moving Target,root|Travel & Transport,root|Travel & Transport|Moving Target
+Travel & Transport,Airport,root|Travel & Transport,root|Travel & Transport|Airport
+Airport,Airport Gate,root|Travel & Transport|Airport,root|Travel & Transport|Airport|Airport Gate
+Airport,Airport Lounge,root|Travel & Transport|Airport,root|Travel & Transport|Airport|Airport Lounge
+Airport,Plane,root|Travel & Transport|Airport,root|Travel & Transport|Airport|Plane
+Airport,Baggage Claim,root|Travel & Transport|Airport,root|Travel & Transport|Airport|Baggage Claim
+Airport,Airport Tram,root|Travel & Transport|Airport,root|Travel & Transport|Airport|Airport Tram
+Airport,Airport Terminal,root|Travel & Transport|Airport,root|Travel & Transport|Airport|Airport Terminal
+Airport,Airport Food Court,root|Travel & Transport|Airport,root|Travel & Transport|Airport|Airport Food Court
+Airport,Airport Service,root|Travel & Transport|Airport,root|Travel & Transport|Airport|Airport Service
+Travel & Transport,Metro Station,root|Travel & Transport,root|Travel & Transport|Metro Station
+Travel & Transport,Bus Stop,root|Travel & Transport,root|Travel & Transport|Bus Stop
+Travel & Transport,Baggage Locker,root|Travel & Transport,root|Travel & Transport|Baggage Locker
+Travel & Transport,Toll Booth,root|Travel & Transport,root|Travel & Transport|Toll Booth
+Travel & Transport,Bike Rental / Bike Share,root|Travel & Transport,root|Travel & Transport|Bike Rental / Bike Share
+Travel & Transport,Heliport,root|Travel & Transport,root|Travel & Transport|Heliport
+Travel & Transport,Rental Car Location,root|Travel & Transport,root|Travel & Transport|Rental Car Location
+Travel & Transport,RV Park,root|Travel & Transport,root|Travel & Transport|RV Park
+Travel & Transport,Cruise,root|Travel & Transport,root|Travel & Transport|Cruise
+Travel & Transport,General Travel,root|Travel & Transport,root|Travel & Transport|General Travel
+Travel & Transport,Port,root|Travel & Transport,root|Travel & Transport|Port
+root,Outdoors & Recreation,root,root|Outdoors & Recreation
+Outdoors & Recreation,Canal,root|Outdoors & Recreation,root|Outdoors & Recreation|Canal
+Outdoors & Recreation,Mountain,root|Outdoors & Recreation,root|Outdoors & Recreation|Mountain
+Outdoors & Recreation,Lighthouse,root|Outdoors & Recreation,root|Outdoors & Recreation|Lighthouse
+Outdoors & Recreation,Stables,root|Outdoors & Recreation,root|Outdoors & Recreation|Stables
+Outdoors & Recreation,Park,root|Outdoors & Recreation,root|Outdoors & Recreation|Park
+Outdoors & Recreation,Cave,root|Outdoors & Recreation,root|Outdoors & Recreation|Cave
+Outdoors & Recreation,Cemetery,root|Outdoors & Recreation,root|Outdoors & Recreation|Cemetery
+Outdoors & Recreation,Lake,root|Outdoors & Recreation,root|Outdoors & Recreation|Lake
+Outdoors & Recreation,Vineyard,root|Outdoors & Recreation,root|Outdoors & Recreation|Vineyard
+Outdoors & Recreation,Field,root|Outdoors & Recreation,root|Outdoors & Recreation|Field
+Outdoors & Recreation,Fountain,root|Outdoors & Recreation,root|Outdoors & Recreation|Fountain
+Outdoors & Recreation,Forest,root|Outdoors & Recreation,root|Outdoors & Recreation|Forest
+Outdoors & Recreation,Ski Area,root|Outdoors & Recreation,root|Outdoors & Recreation|Ski Area
+Ski Area,Ski Chairlift,root|Outdoors & Recreation|Ski Area,root|Outdoors & Recreation|Ski Area|Ski Chairlift
+Ski Area,Ski Lodge,root|Outdoors & Recreation|Ski Area,root|Outdoors & Recreation|Ski Area|Ski Lodge
+Ski Area,Ski Trail,root|Outdoors & Recreation|Ski Area,root|Outdoors & Recreation|Ski Area|Ski Trail
+Ski Area,Ski Chalet,root|Outdoors & Recreation|Ski Area,root|Outdoors & Recreation|Ski Area|Ski Chalet
+Ski Area,Apres Ski Bar,root|Outdoors & Recreation|Ski Area,root|Outdoors & Recreation|Ski Area|Apres Ski Bar
+Outdoors & Recreation,Beach,root|Outdoors & Recreation,root|Outdoors & Recreation|Beach
+Beach,Nudist Beach,root|Outdoors & Recreation|Beach,root|Outdoors & Recreation|Beach|Nudist Beach
+Beach,Surf Spot,root|Outdoors & Recreation|Beach,root|Outdoors & Recreation|Beach|Surf Spot
+Outdoors & Recreation,Dog Run,root|Outdoors & Recreation,root|Outdoors & Recreation|Dog Run
+Outdoors & Recreation,Garden,root|Outdoors & Recreation,root|Outdoors & Recreation|Garden
+Outdoors & Recreation,Farm,root|Outdoors & Recreation,root|Outdoors & Recreation|Farm
+Outdoors & Recreation,Fishing Spot,root|Outdoors & Recreation,root|Outdoors & Recreation|Fishing Spot
+Outdoors & Recreation,Athletics & Sports,root|Outdoors & Recreation,root|Outdoors & Recreation|Athletics & Sports
+Athletics & Sports,Badminton Court,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Badminton Court
+Athletics & Sports,Paintball Field,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Paintball Field
+Athletics & Sports,Skating Rink,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Skating Rink
+Athletics & Sports,Squash Court,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Squash Court
+Athletics & Sports,Gym / Fitness Center,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center
+Gym / Fitness Center,Pilates Studio,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center|Pilates Studio
+Gym / Fitness Center,Gym Pool,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center|Gym Pool
+Gym / Fitness Center,Martial Arts Dojo,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center|Martial Arts Dojo
+Gym / Fitness Center,Climbing Gym,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center|Climbing Gym
+Gym / Fitness Center,Boxing Gym,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center|Boxing Gym
+Gym / Fitness Center,Track,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center|Track
+Gym / Fitness Center,Cycle Studio,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center|Cycle Studio
+Gym / Fitness Center,Yoga Studio,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center|Yoga Studio
+Gym / Fitness Center,Gym,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center|Gym
+Gym / Fitness Center,Gymnastics Gym,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center,root|Outdoors & Recreation|Athletics & Sports|Gym / Fitness Center|Gymnastics Gym
+Athletics & Sports,Soccer Field,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Soccer Field
+Athletics & Sports,Basketball Court,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Basketball Court
+Athletics & Sports,Hockey Field,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Hockey Field
+Athletics & Sports,Bowling Green,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Bowling Green
+Athletics & Sports,Volleyball Court,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Volleyball Court
+Athletics & Sports,Skate Park,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Skate Park
+Athletics & Sports,Hockey Rink,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Hockey Rink
+Athletics & Sports,Tennis Court,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Tennis Court
+Athletics & Sports,Rugby Pitch,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Rugby Pitch
+Athletics & Sports,Sports Club,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Sports Club
+Athletics & Sports,Curling Ice,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Curling Ice
+Athletics & Sports,Golf Course,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Golf Course
+Athletics & Sports,Baseball Field,root|Outdoors & Recreation|Athletics & Sports,root|Outdoors & Recreation|Athletics & Sports|Baseball Field
+Outdoors & Recreation,Scenic Lookout,root|Outdoors & Recreation,root|Outdoors & Recreation|Scenic Lookout
+Outdoors & Recreation,Trail,root|Outdoors & Recreation,root|Outdoors & Recreation|Trail
+Outdoors & Recreation,Waterfall,root|Outdoors & Recreation,root|Outdoors & Recreation|Waterfall
+Outdoors & Recreation,Waterfront,root|Outdoors & Recreation,root|Outdoors & Recreation|Waterfront
+Outdoors & Recreation,Recreation Center,root|Outdoors & Recreation,root|Outdoors & Recreation|Recreation Center
+Outdoors & Recreation,States & Municipalities,root|Outdoors & Recreation,root|Outdoors & Recreation|States & Municipalities
+States & Municipalities,Town,root|Outdoors & Recreation|States & Municipalities,root|Outdoors & Recreation|States & Municipalities|Town
+States & Municipalities,City,root|Outdoors & Recreation|States & Municipalities,root|Outdoors & Recreation|States & Municipalities|City
+States & Municipalities,Neighborhood,root|Outdoors & Recreation|States & Municipalities,root|Outdoors & Recreation|States & Municipalities|Neighborhood
+States & Municipalities,Country,root|Outdoors & Recreation|States & Municipalities,root|Outdoors & Recreation|States & Municipalities|Country
+States & Municipalities,County,root|Outdoors & Recreation|States & Municipalities,root|Outdoors & Recreation|States & Municipalities|County
+States & Municipalities,State,root|Outdoors & Recreation|States & Municipalities,root|Outdoors & Recreation|States & Municipalities|State
+States & Municipalities,Village,root|Outdoors & Recreation|States & Municipalities,root|Outdoors & Recreation|States & Municipalities|Village
+Outdoors & Recreation,Pool,root|Outdoors & Recreation,root|Outdoors & Recreation|Pool
+Outdoors & Recreation,Indoor Play Area,root|Outdoors & Recreation,root|Outdoors & Recreation|Indoor Play Area
+Outdoors & Recreation,Rock Climbing Spot,root|Outdoors & Recreation,root|Outdoors & Recreation|Rock Climbing Spot
+Outdoors & Recreation,Pedestrian Plaza,root|Outdoors & Recreation,root|Outdoors & Recreation|Pedestrian Plaza
+Outdoors & Recreation,Island,root|Outdoors & Recreation,root|Outdoors & Recreation|Island
+Outdoors & Recreation,Hot Spring,root|Outdoors & Recreation,root|Outdoors & Recreation|Hot Spring
+Outdoors & Recreation,Plaza,root|Outdoors & Recreation,root|Outdoors & Recreation|Plaza
+Outdoors & Recreation,Tree,root|Outdoors & Recreation,root|Outdoors & Recreation|Tree
+Outdoors & Recreation,Summer Camp,root|Outdoors & Recreation,root|Outdoors & Recreation|Summer Camp
+Outdoors & Recreation,Bay,root|Outdoors & Recreation,root|Outdoors & Recreation|Bay
+Outdoors & Recreation,Bathing Area,root|Outdoors & Recreation,root|Outdoors & Recreation|Bathing Area
+Outdoors & Recreation,Canal Lock,root|Outdoors & Recreation,root|Outdoors & Recreation|Canal Lock
+Outdoors & Recreation,Bike Trail,root|Outdoors & Recreation,root|Outdoors & Recreation|Bike Trail
+Outdoors & Recreation,Volcano,root|Outdoors & Recreation,root|Outdoors & Recreation|Volcano
+Outdoors & Recreation,Castle,root|Outdoors & Recreation,root|Outdoors & Recreation|Castle
+Outdoors & Recreation,River,root|Outdoors & Recreation,root|Outdoors & Recreation|River
+Outdoors & Recreation,Rafting,root|Outdoors & Recreation,root|Outdoors & Recreation|Rafting
+Outdoors & Recreation,Harbor / Marina,root|Outdoors & Recreation,root|Outdoors & Recreation|Harbor / Marina
+Outdoors & Recreation,Gun Range,root|Outdoors & Recreation,root|Outdoors & Recreation|Gun Range
+Outdoors & Recreation,Bridge,root|Outdoors & Recreation,root|Outdoors & Recreation|Bridge
+Outdoors & Recreation,Mountain Hut,root|Outdoors & Recreation,root|Outdoors & Recreation|Mountain Hut
+Outdoors & Recreation,Dive Spot,root|Outdoors & Recreation,root|Outdoors & Recreation|Dive Spot
+Outdoors & Recreation,Other Great Outdoors,root|Outdoors & Recreation,root|Outdoors & Recreation|Other Great Outdoors
+Outdoors & Recreation,Reservoir,root|Outdoors & Recreation,root|Outdoors & Recreation|Reservoir
+Outdoors & Recreation,Palace,root|Outdoors & Recreation,root|Outdoors & Recreation|Palace
+Outdoors & Recreation,Well,root|Outdoors & Recreation,root|Outdoors & Recreation|Well
+Outdoors & Recreation,Nature Preserve,root|Outdoors & Recreation,root|Outdoors & Recreation|Nature Preserve
+Outdoors & Recreation,National Park,root|Outdoors & Recreation,root|Outdoors & Recreation|National Park
+Outdoors & Recreation,Sculpture Garden,root|Outdoors & Recreation,root|Outdoors & Recreation|Sculpture Garden
+Outdoors & Recreation,Campground,root|Outdoors & Recreation,root|Outdoors & Recreation|Campground
+Outdoors & Recreation,Botanical Garden,root|Outdoors & Recreation,root|Outdoors & Recreation|Botanical Garden
+Outdoors & Recreation,Playground,root|Outdoors & Recreation,root|Outdoors & Recreation|Playground
+root,Arts & Entertainment,root,root|Arts & Entertainment
+Arts & Entertainment,Roller Rink,root|Arts & Entertainment,root|Arts & Entertainment|Roller Rink
+Arts & Entertainment,Racecourse,root|Arts & Entertainment,root|Arts & Entertainment|Racecourse
+Arts & Entertainment,Concert Hall,root|Arts & Entertainment,root|Arts & Entertainment|Concert Hall
+Arts & Entertainment,Arcade,root|Arts & Entertainment,root|Arts & Entertainment|Arcade
+Arts & Entertainment,Tour Provider,root|Arts & Entertainment,root|Arts & Entertainment|Tour Provider
+Arts & Entertainment,Museum,root|Arts & Entertainment,root|Arts & Entertainment|Museum
+Museum,Planetarium,root|Arts & Entertainment|Museum,root|Arts & Entertainment|Museum|Planetarium
+Museum,History Museum,root|Arts & Entertainment|Museum,root|Arts & Entertainment|Museum|History Museum
+Museum,Art Museum,root|Arts & Entertainment|Museum,root|Arts & Entertainment|Museum|Art Museum
+Museum,Science Museum,root|Arts & Entertainment|Museum,root|Arts & Entertainment|Museum|Science Museum
+Museum,Erotic Museum,root|Arts & Entertainment|Museum,root|Arts & Entertainment|Museum|Erotic Museum
+Arts & Entertainment,Zoo,root|Arts & Entertainment,root|Arts & Entertainment|Zoo
+Arts & Entertainment,Performing Arts Venue,root|Arts & Entertainment,root|Arts & Entertainment|Performing Arts Venue
+Performing Arts Venue,Opera House,root|Arts & Entertainment|Performing Arts Venue,root|Arts & Entertainment|Performing Arts Venue|Opera House
+Performing Arts Venue,Indie Theater,root|Arts & Entertainment|Performing Arts Venue,root|Arts & Entertainment|Performing Arts Venue|Indie Theater
+Performing Arts Venue,Theater,root|Arts & Entertainment|Performing Arts Venue,root|Arts & Entertainment|Performing Arts Venue|Theater
+Performing Arts Venue,Dance Studio,root|Arts & Entertainment|Performing Arts Venue,root|Arts & Entertainment|Performing Arts Venue|Dance Studio
+Arts & Entertainment,Stadium,root|Arts & Entertainment,root|Arts & Entertainment|Stadium
+Stadium,Rugby Stadium,root|Arts & Entertainment|Stadium,root|Arts & Entertainment|Stadium|Rugby Stadium
+Stadium,Hockey Arena,root|Arts & Entertainment|Stadium,root|Arts & Entertainment|Stadium|Hockey Arena
+Stadium,Track Stadium,root|Arts & Entertainment|Stadium,root|Arts & Entertainment|Stadium|Track Stadium
+Stadium,Tennis Stadium,root|Arts & Entertainment|Stadium,root|Arts & Entertainment|Stadium|Tennis Stadium
+Stadium,Soccer Stadium,root|Arts & Entertainment|Stadium,root|Arts & Entertainment|Stadium|Soccer Stadium
+Stadium,Football Stadium,root|Arts & Entertainment|Stadium,root|Arts & Entertainment|Stadium|Football Stadium
+Stadium,Cricket Ground,root|Arts & Entertainment|Stadium,root|Arts & Entertainment|Stadium|Cricket Ground
+Stadium,Baseball Stadium,root|Arts & Entertainment|Stadium,root|Arts & Entertainment|Stadium|Baseball Stadium
+Stadium,Basketball Stadium,root|Arts & Entertainment|Stadium,root|Arts & Entertainment|Stadium|Basketball Stadium
+Arts & Entertainment,General Entertainment,root|Arts & Entertainment,root|Arts & Entertainment|General Entertainment
+Arts & Entertainment,Water Park,root|Arts & Entertainment,root|Arts & Entertainment|Water Park
+Arts & Entertainment,Movie Theater,root|Arts & Entertainment,root|Arts & Entertainment|Movie Theater
+Movie Theater,Multiplex,root|Arts & Entertainment|Movie Theater,root|Arts & Entertainment|Movie Theater|Multiplex
+Movie Theater,Indie Movie Theater,root|Arts & Entertainment|Movie Theater,root|Arts & Entertainment|Movie Theater|Indie Movie Theater
+Movie Theater,Drive-in Theater,root|Arts & Entertainment|Movie Theater,root|Arts & Entertainment|Movie Theater|Drive-in Theater
+Arts & Entertainment,Comedy Club,root|Arts & Entertainment,root|Arts & Entertainment|Comedy Club
+Arts & Entertainment,Go Kart Track,root|Arts & Entertainment,root|Arts & Entertainment|Go Kart Track
+Arts & Entertainment,Art Gallery,root|Arts & Entertainment,root|Arts & Entertainment|Art Gallery
+Arts & Entertainment,Public Art,root|Arts & Entertainment,root|Arts & Entertainment|Public Art
+Public Art,Outdoor Sculpture,root|Arts & Entertainment|Public Art,root|Arts & Entertainment|Public Art|Outdoor Sculpture
+Public Art,Street Art,root|Arts & Entertainment|Public Art,root|Arts & Entertainment|Public Art|Street Art
+Arts & Entertainment,Memorial Site,root|Arts & Entertainment,root|Arts & Entertainment|Memorial Site
+Arts & Entertainment,Mini Golf,root|Arts & Entertainment,root|Arts & Entertainment|Mini Golf
+Arts & Entertainment,Aquarium,root|Arts & Entertainment,root|Arts & Entertainment|Aquarium
+Arts & Entertainment,Bowling Alley,root|Arts & Entertainment,root|Arts & Entertainment|Bowling Alley
+Arts & Entertainment,Salsa Club,root|Arts & Entertainment,root|Arts & Entertainment|Salsa Club
+Arts & Entertainment,Music Venue,root|Arts & Entertainment,root|Arts & Entertainment|Music Venue
+Music Venue,Rock Club,root|Arts & Entertainment|Music Venue,root|Arts & Entertainment|Music Venue|Rock Club
+Music Venue,Piano Bar,root|Arts & Entertainment|Music Venue,root|Arts & Entertainment|Music Venue|Piano Bar
+Music Venue,Jazz Club,root|Arts & Entertainment|Music Venue,root|Arts & Entertainment|Music Venue|Jazz Club
+Arts & Entertainment,Karaoke Box,root|Arts & Entertainment,root|Arts & Entertainment|Karaoke Box
+Arts & Entertainment,Pachinko Parlor,root|Arts & Entertainment,root|Arts & Entertainment|Pachinko Parlor
+Arts & Entertainment,Casino,root|Arts & Entertainment,root|Arts & Entertainment|Casino
+Arts & Entertainment,Racetrack,root|Arts & Entertainment,root|Arts & Entertainment|Racetrack
+Arts & Entertainment,Pool Hall,root|Arts & Entertainment,root|Arts & Entertainment|Pool Hall
+Arts & Entertainment,Theme Park,root|Arts & Entertainment,root|Arts & Entertainment|Theme Park
+Theme Park,Theme Park Ride / Attraction,root|Arts & Entertainment|Theme Park,root|Arts & Entertainment|Theme Park|Theme Park Ride / Attraction
+Arts & Entertainment,Exhibit,root|Arts & Entertainment,root|Arts & Entertainment|Exhibit
+Arts & Entertainment,Historic Site,root|Arts & Entertainment,root|Arts & Entertainment|Historic Site
+Arts & Entertainment,Circus,root|Arts & Entertainment,root|Arts & Entertainment|Circus
+Arts & Entertainment,Laser Tag,root|Arts & Entertainment,root|Arts & Entertainment|Laser Tag
+Arts & Entertainment,Amphitheater,root|Arts & Entertainment,root|Arts & Entertainment|Amphitheater
+Arts & Entertainment,Country Dance Club,root|Arts & Entertainment,root|Arts & Entertainment|Country Dance Club
+Arts & Entertainment,Disc Golf,root|Arts & Entertainment,root|Arts & Entertainment|Disc Golf
+Arts & Entertainment,Samba School,root|Arts & Entertainment,root|Arts & Entertainment|Samba School
+root,Shop & Service,root,root|Shop & Service
+Shop & Service,Batik Shop,root|Shop & Service,root|Shop & Service|Batik Shop
+Shop & Service,Ski Shop,root|Shop & Service,root|Shop & Service|Ski Shop
+Shop & Service,Shipping Store,root|Shop & Service,root|Shop & Service|Shipping Store
+Shop & Service,Bridal Shop,root|Shop & Service,root|Shop & Service|Bridal Shop
+Shop & Service,Shopping Mall,root|Shop & Service,root|Shop & Service|Shopping Mall
+Shop & Service,Tailor Shop,root|Shop & Service,root|Shop & Service|Tailor Shop
+Shop & Service,Event Service,root|Shop & Service,root|Shop & Service|Event Service
+Shop & Service,Pop-Up Shop,root|Shop & Service,root|Shop & Service|Pop-Up Shop
+Shop & Service,Fireworks Store,root|Shop & Service,root|Shop & Service|Fireworks Store
+Shop & Service,Bookstore,root|Shop & Service,root|Shop & Service|Bookstore
+Shop & Service,Thrift / Vintage Store,root|Shop & Service,root|Shop & Service|Thrift / Vintage Store
+Shop & Service,Dry Cleaner,root|Shop & Service,root|Shop & Service|Dry Cleaner
+Shop & Service,Health & Beauty Service,root|Shop & Service,root|Shop & Service|Health & Beauty Service
+Shop & Service,Home Service,root|Shop & Service,root|Shop & Service|Home Service
+Shop & Service,Luggage Store,root|Shop & Service,root|Shop & Service|Luggage Store
+Shop & Service,Astrologer,root|Shop & Service,root|Shop & Service|Astrologer
+Shop & Service,Jewelry Store,root|Shop & Service,root|Shop & Service|Jewelry Store
+Shop & Service,Music Store,root|Shop & Service,root|Shop & Service|Music Store
+Shop & Service,Entertainment Service,root|Shop & Service,root|Shop & Service|Entertainment Service
+Shop & Service,Perfume Shop,root|Shop & Service,root|Shop & Service|Perfume Shop
+Shop & Service,IT Services,root|Shop & Service,root|Shop & Service|IT Services
+Shop & Service,Film Studio,root|Shop & Service,root|Shop & Service|Film Studio
+Shop & Service,Travel Agency,root|Shop & Service,root|Shop & Service|Travel Agency
+Shop & Service,Marijuana Dispensary,root|Shop & Service,root|Shop & Service|Marijuana Dispensary
+Shop & Service,Outlet Mall,root|Shop & Service,root|Shop & Service|Outlet Mall
+Shop & Service,Laundromat,root|Shop & Service,root|Shop & Service|Laundromat
+Shop & Service,Financial or Legal Service,root|Shop & Service,root|Shop & Service|Financial or Legal Service
+Shop & Service,Stationery Store,root|Shop & Service,root|Shop & Service|Stationery Store
+Shop & Service,Photography Lab,root|Shop & Service,root|Shop & Service|Photography Lab
+Shop & Service,Mobility Store,root|Shop & Service,root|Shop & Service|Mobility Store
+Shop & Service,Locksmith,root|Shop & Service,root|Shop & Service|Locksmith
+Shop & Service,Spa,root|Shop & Service,root|Shop & Service|Spa
+Shop & Service,Video Game Store,root|Shop & Service,root|Shop & Service|Video Game Store
+Shop & Service,Gun Shop,root|Shop & Service,root|Shop & Service|Gun Shop
+Shop & Service,Sporting Goods Shop,root|Shop & Service,root|Shop & Service|Sporting Goods Shop
+Shop & Service,Auto Garage,root|Shop & Service,root|Shop & Service|Auto Garage
+Shop & Service,Tattoo Parlor,root|Shop & Service,root|Shop & Service|Tattoo Parlor
+Shop & Service,Fruit & Vegetable Store,root|Shop & Service,root|Shop & Service|Fruit & Vegetable Store
+Shop & Service,Watch Shop,root|Shop & Service,root|Shop & Service|Watch Shop
+Shop & Service,Auto Workshop,root|Shop & Service,root|Shop & Service|Auto Workshop
+Shop & Service,Fishing Store,root|Shop & Service,root|Shop & Service|Fishing Store
+Shop & Service,Cosmetics Shop,root|Shop & Service,root|Shop & Service|Cosmetics Shop
+Shop & Service,Dive Shop,root|Shop & Service,root|Shop & Service|Dive Shop
+Shop & Service,Outlet Store,root|Shop & Service,root|Shop & Service|Outlet Store
+Shop & Service,Knitting Store,root|Shop & Service,root|Shop & Service|Knitting Store
+Shop & Service,Car Wash,root|Shop & Service,root|Shop & Service|Car Wash
+Shop & Service,Mattress Store,root|Shop & Service,root|Shop & Service|Mattress Store
+Shop & Service,Garden Center,root|Shop & Service,root|Shop & Service|Garden Center
+Shop & Service,Print Shop,root|Shop & Service,root|Shop & Service|Print Shop
+Shop & Service,Shopping Plaza,root|Shop & Service,root|Shop & Service|Shopping Plaza
+Shop & Service,Hardware Store,root|Shop & Service,root|Shop & Service|Hardware Store
+Shop & Service,Convenience Store,root|Shop & Service,root|Shop & Service|Convenience Store
+Shop & Service,Miscellaneous Shop,root|Shop & Service,root|Shop & Service|Miscellaneous Shop
+Shop & Service,Smoothie Shop,root|Shop & Service,root|Shop & Service|Smoothie Shop
+Shop & Service,Nail Salon,root|Shop & Service,root|Shop & Service|Nail Salon
+Shop & Service,Shoe Repair,root|Shop & Service,root|Shop & Service|Shoe Repair
+Shop & Service,Candy Store,root|Shop & Service,root|Shop & Service|Candy Store
+Shop & Service,Recycling Facility,root|Shop & Service,root|Shop & Service|Recycling Facility
+Shop & Service,Clothing Store,root|Shop & Service,root|Shop & Service|Clothing Store
+Clothing Store,Kids Store,root|Shop & Service|Clothing Store,root|Shop & Service|Clothing Store|Kids Store
+Clothing Store,Accessories Store,root|Shop & Service|Clothing Store,root|Shop & Service|Clothing Store|Accessories Store
+Clothing Store,Lingerie Store,root|Shop & Service|Clothing Store,root|Shop & Service|Clothing Store|Lingerie Store
+Clothing Store,Shoe Store,root|Shop & Service|Clothing Store,root|Shop & Service|Clothing Store|Shoe Store
+Clothing Store,Women's Store,root|Shop & Service|Clothing Store,root|Shop & Service|Clothing Store|Women's Store
+Clothing Store,Boutique,root|Shop & Service|Clothing Store,root|Shop & Service|Clothing Store|Boutique
+Clothing Store,Men's Store,root|Shop & Service|Clothing Store,root|Shop & Service|Clothing Store|Men's Store
+Shop & Service,Electronics Store,root|Shop & Service,root|Shop & Service|Electronics Store
+Shop & Service,Internet Cafe,root|Shop & Service,root|Shop & Service|Internet Cafe
+Shop & Service,Outdoor Supply Store,root|Shop & Service,root|Shop & Service|Outdoor Supply Store
+Shop & Service,Vape Store,root|Shop & Service,root|Shop & Service|Vape Store
+Shop & Service,Pawn Shop,root|Shop & Service,root|Shop & Service|Pawn Shop
+Shop & Service,Rental Service,root|Shop & Service,root|Shop & Service|Rental Service
+Shop & Service,Pet Store,root|Shop & Service,root|Shop & Service|Pet Store
+Shop & Service,Toy / Game Store,root|Shop & Service,root|Shop & Service|Toy / Game Store
+Shop & Service,Warehouse Store,root|Shop & Service,root|Shop & Service|Warehouse Store
+Shop & Service,Check Cashing Service,root|Shop & Service,root|Shop & Service|Check Cashing Service
+Shop & Service,Board Shop,root|Shop & Service,root|Shop & Service|Board Shop
+Shop & Service,Lawyer,root|Shop & Service,root|Shop & Service|Lawyer
+Shop & Service,Gas Station,root|Shop & Service,root|Shop & Service|Gas Station
+Shop & Service,Big Box Store,root|Shop & Service,root|Shop & Service|Big Box Store
+Shop & Service,Bike Shop,root|Shop & Service,root|Shop & Service|Bike Shop
+Shop & Service,ATM,root|Shop & Service,root|Shop & Service|ATM
+Shop & Service,Chocolate Shop,root|Shop & Service,root|Shop & Service|Chocolate Shop
+Shop & Service,Optical Shop,root|Shop & Service,root|Shop & Service|Optical Shop
+Shop & Service,Drugstore,root|Shop & Service,root|Shop & Service|Drugstore
+Shop & Service,Credit Union,root|Shop & Service,root|Shop & Service|Credit Union
+Shop & Service,Betting Shop,root|Shop & Service,root|Shop & Service|Betting Shop
+Shop & Service,Lottery Retailer,root|Shop & Service,root|Shop & Service|Lottery Retailer
+Shop & Service,Furniture / Home Store,root|Shop & Service,root|Shop & Service|Furniture / Home Store
+Furniture / Home Store,Lighting Store,root|Shop & Service|Furniture / Home Store,root|Shop & Service|Furniture / Home Store|Lighting Store
+Shop & Service,Newsstand,root|Shop & Service,root|Shop & Service|Newsstand
+Shop & Service,Comic Shop,root|Shop & Service,root|Shop & Service|Comic Shop
+Shop & Service,Used Bookstore,root|Shop & Service,root|Shop & Service|Used Bookstore
+Shop & Service,Photography Studio,root|Shop & Service,root|Shop & Service|Photography Studio
+Shop & Service,Tanning Salon,root|Shop & Service,root|Shop & Service|Tanning Salon
+Shop & Service,Laundry Service,root|Shop & Service,root|Shop & Service|Laundry Service
+Shop & Service,Hunting Supply,root|Shop & Service,root|Shop & Service|Hunting Supply
+Shop & Service,Baby Store,root|Shop & Service,root|Shop & Service|Baby Store
+Shop & Service,Smoke Shop,root|Shop & Service,root|Shop & Service|Smoke Shop
+Shop & Service,Pharmacy,root|Shop & Service,root|Shop & Service|Pharmacy
+Shop & Service,Recording Studio,root|Shop & Service,root|Shop & Service|Recording Studio
+Shop & Service,Currency Exchange,root|Shop & Service,root|Shop & Service|Currency Exchange
+Shop & Service,Business Service,root|Shop & Service,root|Shop & Service|Business Service
+Shop & Service,Frame Store,root|Shop & Service,root|Shop & Service|Frame Store
+Shop & Service,Camera Store,root|Shop & Service,root|Shop & Service|Camera Store
+Shop & Service,Flea Market,root|Shop & Service,root|Shop & Service|Flea Market
+Shop & Service,Massage Studio,root|Shop & Service,root|Shop & Service|Massage Studio
+Shop & Service,Salon / Barbershop,root|Shop & Service,root|Shop & Service|Salon / Barbershop
+Shop & Service,Antique Shop,root|Shop & Service,root|Shop & Service|Antique Shop
+Shop & Service,Market,root|Shop & Service,root|Shop & Service|Market
+Shop & Service,Supplement Shop,root|Shop & Service,root|Shop & Service|Supplement Shop
+Shop & Service,Food & Drink Shop,root|Shop & Service,root|Shop & Service|Food & Drink Shop
+Food & Drink Shop,Fish Market,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Fish Market
+Food & Drink Shop,Liquor Store,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Liquor Store
+Food & Drink Shop,Gourmet Shop,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Gourmet Shop
+Food & Drink Shop,Beer Store,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Beer Store
+Food & Drink Shop,Food Service,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Food Service
+Food & Drink Shop,Wine Shop,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Wine Shop
+Food & Drink Shop,Street Food Gathering,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Street Food Gathering
+Food & Drink Shop,Butcher,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Butcher
+Food & Drink Shop,Supermarket,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Supermarket
+Food & Drink Shop,Farmers Market,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Farmers Market
+Food & Drink Shop,Sausage Shop,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Sausage Shop
+Food & Drink Shop,Cheese Shop,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Cheese Shop
+Food & Drink Shop,Health Food Store,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Health Food Store
+Food & Drink Shop,Organic Grocery,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Organic Grocery
+Food & Drink Shop,Grocery Store,root|Shop & Service|Food & Drink Shop,root|Shop & Service|Food & Drink Shop|Grocery Store
+Shop & Service,Automotive Shop,root|Shop & Service,root|Shop & Service|Automotive Shop
+Shop & Service,Motorcycle Shop,root|Shop & Service,root|Shop & Service|Motorcycle Shop
+Shop & Service,Flower Shop,root|Shop & Service,root|Shop & Service|Flower Shop
+Shop & Service,Carpet Store,root|Shop & Service,root|Shop & Service|Carpet Store
+Shop & Service,Real Estate Office,root|Shop & Service,root|Shop & Service|Real Estate Office
+Shop & Service,Hobby Shop,root|Shop & Service,root|Shop & Service|Hobby Shop
+Shop & Service,Arts & Crafts Store,root|Shop & Service,root|Shop & Service|Arts & Crafts Store
+Shop & Service,Costume Shop,root|Shop & Service,root|Shop & Service|Costume Shop
+Shop & Service,Pet Service,root|Shop & Service,root|Shop & Service|Pet Service
+Shop & Service,Design Studio,root|Shop & Service,root|Shop & Service|Design Studio
+Shop & Service,Paper / Office Supplies Store,root|Shop & Service,root|Shop & Service|Paper / Office Supplies Store
+Shop & Service,Leather Goods Store,root|Shop & Service,root|Shop & Service|Leather Goods Store
+Shop & Service,Mobile Phone Shop,root|Shop & Service,root|Shop & Service|Mobile Phone Shop
+Shop & Service,EV Charging Station,root|Shop & Service,root|Shop & Service|EV Charging Station
+Shop & Service,Souvenir Shop,root|Shop & Service,root|Shop & Service|Souvenir Shop
+Shop & Service,Bank,root|Shop & Service,root|Shop & Service|Bank
+Shop & Service,Floating Market,root|Shop & Service,root|Shop & Service|Floating Market
+Shop & Service,Bath House,root|Shop & Service,root|Shop & Service|Bath House
+Shop & Service,Piercing Parlor,root|Shop & Service,root|Shop & Service|Piercing Parlor
+Shop & Service,Record Shop,root|Shop & Service,root|Shop & Service|Record Shop
+Shop & Service,Public Bathroom,root|Shop & Service,root|Shop & Service|Public Bathroom
+Shop & Service,Discount Store,root|Shop & Service,root|Shop & Service|Discount Store
+Shop & Service,Auto Dealership,root|Shop & Service,root|Shop & Service|Auto Dealership
+Shop & Service,Gaming Cafe,root|Shop & Service,root|Shop & Service|Gaming Cafe
+Shop & Service,Department Store,root|Shop & Service,root|Shop & Service|Department Store
+Shop & Service,Child Care Service,root|Shop & Service,root|Shop & Service|Child Care Service
+Child Care Service,Daycare,root|Shop & Service|Child Care Service,root|Shop & Service|Child Care Service|Daycare
+Shop & Service,Fabric Shop,root|Shop & Service,root|Shop & Service|Fabric Shop
+Shop & Service,Adult Boutique,root|Shop & Service,root|Shop & Service|Adult Boutique
+Shop & Service,Storage Facility,root|Shop & Service,root|Shop & Service|Storage Facility
+Shop & Service,Herbs & Spices Store,root|Shop & Service,root|Shop & Service|Herbs & Spices Store
+Shop & Service,Video Store,root|Shop & Service,root|Shop & Service|Video Store
+Shop & Service,Gift Shop,root|Shop & Service,root|Shop & Service|Gift Shop
+Shop & Service,Construction & Landscaping,root|Shop & Service,root|Shop & Service|Construction & Landscaping
+Shop & Service,Other Repair Shop,root|Shop & Service,root|Shop & Service|Other Repair Shop
+root,Nightlife Spot,root,root|Nightlife Spot
+Nightlife Spot,Strip Club,root|Nightlife Spot,root|Nightlife Spot|Strip Club
+Nightlife Spot,Other Nightlife,root|Nightlife Spot,root|Nightlife Spot|Other Nightlife
+Nightlife Spot,Night Market,root|Nightlife Spot,root|Nightlife Spot|Night Market
+Nightlife Spot,Bar,root|Nightlife Spot,root|Nightlife Spot|Bar
+Bar,Whisky Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Whisky Bar
+Bar,Cocktail Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Cocktail Bar
+Bar,Beer Garden,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Beer Garden
+Bar,Beach Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Beach Bar
+Bar,Hotel Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Hotel Bar
+Bar,Dive Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Dive Bar
+Bar,Sports Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Sports Bar
+Bar,Wine Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Wine Bar
+Bar,Pub,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Pub
+Bar,Sake Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Sake Bar
+Bar,Gay Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Gay Bar
+Bar,Karaoke Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Karaoke Bar
+Bar,Tiki Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Tiki Bar
+Bar,Hookah Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Hookah Bar
+Bar,Champagne Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Champagne Bar
+Bar,Beer Bar,root|Nightlife Spot|Bar,root|Nightlife Spot|Bar|Beer Bar
+Nightlife Spot,Speakeasy,root|Nightlife Spot,root|Nightlife Spot|Speakeasy
+Nightlife Spot,Nightclub,root|Nightlife Spot,root|Nightlife Spot|Nightclub
+Nightlife Spot,Lounge,root|Nightlife Spot,root|Nightlife Spot|Lounge
+Nightlife Spot,Brewery,root|Nightlife Spot,root|Nightlife Spot|Brewery
+root,Professional & Other Places,root,root|Professional & Other Places
+Professional & Other Places,Convention Center,root|Professional & Other Places,root|Professional & Other Places|Convention Center
+Convention Center,Meeting Room,root|Professional & Other Places|Convention Center,root|Professional & Other Places|Convention Center|Meeting Room
+Professional & Other Places,Business Center,root|Professional & Other Places,root|Professional & Other Places|Business Center
+Professional & Other Places,Prison,root|Professional & Other Places,root|Professional & Other Places|Prison
+Professional & Other Places,Warehouse,root|Professional & Other Places,root|Professional & Other Places|Warehouse
+Professional & Other Places,Voting Booth,root|Professional & Other Places,root|Professional & Other Places|Voting Booth
+Professional & Other Places,Medical Center,root|Professional & Other Places,root|Professional & Other Places|Medical Center
+Medical Center,Rehab Center,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Rehab Center
+Medical Center,Chiropractor,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Chiropractor
+Medical Center,Doctor's Office,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Doctor's Office
+Medical Center,Physical Therapist,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Physical Therapist
+Medical Center,Hospital,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Hospital
+Medical Center,Medical Lab,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Medical Lab
+Medical Center,Dentist's Office,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Dentist's Office
+Medical Center,Eye Doctor,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Eye Doctor
+Medical Center,Mental Health Office,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Mental Health Office
+Medical Center,Acupuncturist,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Acupuncturist
+Medical Center,Veterinarian,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Veterinarian
+Medical Center,Alternative Healer,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Alternative Healer
+Medical Center,Maternity Clinic,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Maternity Clinic
+Medical Center,Urgent Care Center,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Urgent Care Center
+Medical Center,Emergency Room,root|Professional & Other Places|Medical Center,root|Professional & Other Places|Medical Center|Emergency Room
+Professional & Other Places,Funeral Home,root|Professional & Other Places,root|Professional & Other Places|Funeral Home
+Professional & Other Places,Ballroom,root|Professional & Other Places,root|Professional & Other Places|Ballroom
+Professional & Other Places,TV Station,root|Professional & Other Places,root|Professional & Other Places|TV Station
+Professional & Other Places,Cultural Center,root|Professional & Other Places,root|Professional & Other Places|Cultural Center
+Professional & Other Places,Social Club,root|Professional & Other Places,root|Professional & Other Places|Social Club
+Professional & Other Places,Post Office,root|Professional & Other Places,root|Professional & Other Places|Post Office
+Professional & Other Places,Wedding Hall,root|Professional & Other Places,root|Professional & Other Places|Wedding Hall
+Professional & Other Places,Non-Profit,root|Professional & Other Places,root|Professional & Other Places|Non-Profit
+Professional & Other Places,Building,root|Professional & Other Places,root|Professional & Other Places|Building
+Professional & Other Places,School,root|Professional & Other Places,root|Professional & Other Places|School
+School,Private School,root|Professional & Other Places|School,root|Professional & Other Places|School|Private School
+School,Religious School,root|Professional & Other Places|School,root|Professional & Other Places|School|Religious School
+School,Middle School,root|Professional & Other Places|School,root|Professional & Other Places|School|Middle School
+School,High School,root|Professional & Other Places|School,root|Professional & Other Places|School|High School
+School,Music School,root|Professional & Other Places|School,root|Professional & Other Places|School|Music School
+School,Language School,root|Professional & Other Places|School,root|Professional & Other Places|School|Language School
+School,Elementary School,root|Professional & Other Places|School,root|Professional & Other Places|School|Elementary School
+School,Swim School,root|Professional & Other Places|School,root|Professional & Other Places|School|Swim School
+School,Preschool,root|Professional & Other Places|School,root|Professional & Other Places|School|Preschool
+School,Nursery School,root|Professional & Other Places|School,root|Professional & Other Places|School|Nursery School
+School,Driving School,root|Professional & Other Places|School,root|Professional & Other Places|School|Driving School
+School,Adult Education Center,root|Professional & Other Places|School,root|Professional & Other Places|School|Adult Education Center
+School,Circus School,root|Professional & Other Places|School,root|Professional & Other Places|School|Circus School
+School,Flight School,root|Professional & Other Places|School,root|Professional & Other Places|School|Flight School
+Professional & Other Places,Observatory,root|Professional & Other Places,root|Professional & Other Places|Observatory
+Professional & Other Places,Spiritual Center,root|Professional & Other Places,root|Professional & Other Places|Spiritual Center
+Spiritual Center,Kingdom Hall,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Kingdom Hall
+Spiritual Center,Synagogue,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Synagogue
+Spiritual Center,Confucian Temple,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Confucian Temple
+Spiritual Center,Church,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Church
+Spiritual Center,Mosque,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Mosque
+Spiritual Center,Prayer Room,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Prayer Room
+Spiritual Center,Shrine,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Shrine
+Spiritual Center,Terreiro,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Terreiro
+Spiritual Center,Buddhist Temple,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Buddhist Temple
+Spiritual Center,Monastery,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Monastery
+Spiritual Center,Hindu Temple,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Hindu Temple
+Spiritual Center,Temple,root|Professional & Other Places|Spiritual Center,root|Professional & Other Places|Spiritual Center|Temple
+Professional & Other Places,Community Center,root|Professional & Other Places,root|Professional & Other Places|Community Center
+Professional & Other Places,Factory,root|Professional & Other Places,root|Professional & Other Places|Factory
+Professional & Other Places,Event Space,root|Professional & Other Places,root|Professional & Other Places|Event Space
+Event Space,Outdoor Event Space,root|Professional & Other Places|Event Space,root|Professional & Other Places|Event Space|Outdoor Event Space
+Professional & Other Places,Government Building,root|Professional & Other Places,root|Professional & Other Places|Government Building
+Government Building,Embassy / Consulate,root|Professional & Other Places|Government Building,root|Professional & Other Places|Government Building|Embassy / Consulate
+Government Building,Courthouse,root|Professional & Other Places|Government Building,root|Professional & Other Places|Government Building|Courthouse
+Government Building,Town Hall,root|Professional & Other Places|Government Building,root|Professional & Other Places|Government Building|Town Hall
+Government Building,Monument / Landmark,root|Professional & Other Places|Government Building,root|Professional & Other Places|Government Building|Monument / Landmark
+Government Building,Fire Station,root|Professional & Other Places|Government Building,root|Professional & Other Places|Government Building|Fire Station
+Government Building,Capitol Building,root|Professional & Other Places|Government Building,root|Professional & Other Places|Government Building|Capitol Building
+Government Building,City Hall,root|Professional & Other Places|Government Building,root|Professional & Other Places|Government Building|City Hall
+Government Building,Police Station,root|Professional & Other Places|Government Building,root|Professional & Other Places|Government Building|Police Station
+Professional & Other Places,Winery,root|Professional & Other Places,root|Professional & Other Places|Winery
+Professional & Other Places,Distribution Center,root|Professional & Other Places,root|Professional & Other Places|Distribution Center
+Professional & Other Places,Auditorium,root|Professional & Other Places,root|Professional & Other Places|Auditorium
+Professional & Other Places,Military Base,root|Professional & Other Places,root|Professional & Other Places|Military Base
+Professional & Other Places,Office,root|Professional & Other Places,root|Professional & Other Places|Office
+Office,Campaign Office,root|Professional & Other Places|Office,root|Professional & Other Places|Office|Campaign Office
+Office,Advertising Agency,root|Professional & Other Places|Office,root|Professional & Other Places|Office|Advertising Agency
+Office,Corporate Cafeteria,root|Professional & Other Places|Office,root|Professional & Other Places|Office|Corporate Cafeteria
+Office,Tech Startup,root|Professional & Other Places|Office,root|Professional & Other Places|Office|Tech Startup
+Office,Corporate Coffee Shop,root|Professional & Other Places|Office,root|Professional & Other Places|Office|Corporate Coffee Shop
+Office,Corporate Amenity,root|Professional & Other Places|Office,root|Professional & Other Places|Office|Corporate Amenity
+Office,Coworking Space,root|Professional & Other Places|Office,root|Professional & Other Places|Office|Coworking Space
+Office,Conference Room,root|Professional & Other Places|Office,root|Professional & Other Places|Office|Conference Room
+Professional & Other Places,Fair,root|Professional & Other Places,root|Professional & Other Places|Fair
+Professional & Other Places,Radio Station,root|Professional & Other Places,root|Professional & Other Places|Radio Station
+Professional & Other Places,Industrial Estate,root|Professional & Other Places,root|Professional & Other Places|Industrial Estate
+Professional & Other Places,Distillery,root|Professional & Other Places,root|Professional & Other Places|Distillery
+Professional & Other Places,Library,root|Professional & Other Places,root|Professional & Other Places|Library
+Professional & Other Places,Animal Shelter,root|Professional & Other Places,root|Professional & Other Places|Animal Shelter
+Professional & Other Places,Parking,root|Professional & Other Places,root|Professional & Other Places|Parking
+Professional & Other Places,Laboratory,root|Professional & Other Places,root|Professional & Other Places|Laboratory
+Professional & Other Places,Club House,root|Professional & Other Places,root|Professional & Other Places|Club House
+Professional & Other Places,Recruiting Agency,root|Professional & Other Places,root|Professional & Other Places|Recruiting Agency
+root,Event,root,root|Event
+Event,Conference,root|Event,root|Event|Conference
+Event,Music Festival,root|Event,root|Event|Music Festival
+Event,Festival,root|Event,root|Event|Festival
+Event,Other Event,root|Event,root|Event|Other Event
+Event,Stoop Sale,root|Event,root|Event|Stoop Sale
+Event,Street Fair,root|Event,root|Event|Street Fair
+Event,Convention,root|Event,root|Event|Convention
+Event,Christmas Market,root|Event,root|Event|Christmas Market
+Event,Parade,root|Event,root|Event|Parade
