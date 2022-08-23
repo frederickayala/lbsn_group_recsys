@@ -84,7 +84,7 @@ pytz==2016.6.1
 PyYAML==5.4
 pyzmq==15.4.0
 qtconsole==4.2.1
-requests==2.11.1
+requests==2.20.0
 requests-oauthlib==0.7.0
 rsa==4.7
 Rtree==0.8.3
