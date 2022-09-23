@@ -69,7 +69,7 @@ polyline==1.3.1
 powerlaw==1.4.1
 prettytable==0.7.2
 prompt-toolkit==1.0.7
-protobuf==3.15.0
+protobuf==3.18.3
 psclient==2.0
 ptyprocess==0.5.1
 pyasn1==0.1.9
