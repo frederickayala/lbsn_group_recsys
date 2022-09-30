@@ -36,7 +36,7 @@ ipywidgets==5.2.2
 iso3166==0.7
 Jinja2==2.11.3
 jmespath==0.9.0
-joblib==0.10.3
+joblib==1.2.0
 jsonschema==2.5.1
 jupyter==1.0.0
 jupyter-client==4.4.0
