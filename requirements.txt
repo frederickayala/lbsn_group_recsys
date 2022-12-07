@@ -9,7 +9,7 @@ boto3==1.4.1
 botocore==1.4.78
 bz2file==0.98
 CacheControl==0.11.7
-certifi==2016.9.26
+certifi==2022.12.7
 chainer==1.19.0
 cligj==0.4.0
 colorama==0.2.5
